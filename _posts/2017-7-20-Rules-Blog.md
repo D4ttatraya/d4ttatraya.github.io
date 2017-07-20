@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Test Blog!
+title: Rules For Writing Blog With GitHub Editor
 ---
 
-I am trying my blog writing beginning!
+I was 
 
 This is nice experience; will be writing actual blogs soon...
 
