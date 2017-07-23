@@ -8,12 +8,12 @@ okay now.
 
 This is nice experience; will be writing actual blogs soon...
 
-# one  
-## two  
-### three  
-#### four  
-###### five  
-###### six  
+# H1 - Header One  
+## H2 - Header Two  
+### H3 - Header Three  
+#### H4 - Header Four  
+###### H5 - Header Five  
+###### H6 - Header Six  
 ####### seven
 
 Alt-one
