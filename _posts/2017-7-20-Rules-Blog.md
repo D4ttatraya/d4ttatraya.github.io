@@ -11,15 +11,18 @@ As GitHub Pages supports [Jekyll- Static Site Generator in Ruby](https://help.gi
 
 GitHub's online markdown editor is sufficient to write simply formatted blogs. Once we done writing blog content in this editor, after saving changes to GitHub our blog goes live automatically. While in this process GitHub Pages makes some changes in our markdown as we can see some differences in GitHub and live blog as:
 
-![On GitHub]({{ site.baseurl }}/images/Rules-Blog/H1-Github.png)  
-![On Live Page]({{ site.baseurl }}/images/Rules-Blog/H1-Live.png)
+On GitHub-  
+![name]({{ site.baseurl }}/images/Rules-Blog/H1-Github.png)  
+
+On Live Page-  
+![name]({{ site.baseurl }}/images/Rules-Blog/H1-Live.png)
 
 
 So here is markdown cheetsheet and how it reflect in our live blog:
 1 Headings
 We can also use # symbol to add headings as:
 #- H1
-GitHub shows this tag as H1 header with underline-ish style. But on live blog it elimintaes the underline-ish style.
+GitHub shows this tag as H1 header with underline-ish style. But on live blog it eliminates the underline-ish style.
 
 2 Word Processing:
 Bold- To mark any text as bold just put ** from both sides of the text.
