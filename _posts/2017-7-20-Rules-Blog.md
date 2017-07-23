@@ -3,7 +3,8 @@ layout: post
 title: Rules For Writing Blog With GitHub Editor
 ---
 
-I was 
+I was testing new line.
+okay now.
 
 This is nice experience; will be writing actual blogs soon...
 
@@ -11,10 +12,14 @@ This is nice experience; will be writing actual blogs soon...
 ## two  
 ### three  
 #### four  
-###### five
+###### five  
+###### six  
+####### seven
 
 **bold**  
-*italic*
+*italic*  
+***bold-italic***  
+****four****
 
 ![_config.yml]({{ site.baseurl }}/images/jekyll-logo.png)
 
