@@ -13,7 +13,8 @@ Currently using **Swift**, 2.5yrs, through all versions up to recent 4.0 Started
 **C lang, Core Data, Xcode, GIT/GitFlow, SVN, Unit Tests, TDD**
 **Tools:** GitHub, Jira, Skype, Slack, MyCollab
 
-**Find More About Me At: [Stackoverflow Developer Story](https://stackoverflow.com/story/d4ttatraya)**
+Fine More(Experience, Education, My Projects):  
+[Stackoverflow Developer Story](https://stackoverflow.com/story/d4ttatraya)
 
 ### Contact me
 
