@@ -9,11 +9,12 @@ Software Engineer as an iOS Developer since **more than 4yrs**. Developed native
 **Open to work on:** macOS, tvOS, watchOS apps, Server side Swift
 
 ### Skills
-Currently using **Swift**, 2.5yrs, through all versions up to recent 4.0 Started my career with **Objective-C**, used it for 2.5yrs
-**C lang, Core Data, Xcode, GIT/GitFlow, SVN, Unit Tests, TDD**
+Currently using **Swift**, 2.5yrs, through all versions up to recent 4.0  
+Started my career with **Objective-C**, used it for 2.5yrs  
+**C lang, Core Data, Xcode, GIT/GitFlow, SVN, Unit Tests, TDD**  
 **Tools:** GitHub, Jira, Skype, Slack, MyCollab
 
-Fine More(Experience, Education, My Projects):  
+Find More(Experience, Education, My Projects):  
 [Stackoverflow Developer Story](https://stackoverflow.com/story/d4ttatraya)
 
 ### Contact me
