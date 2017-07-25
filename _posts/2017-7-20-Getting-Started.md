@@ -21,7 +21,8 @@ Here is one of such [tutorial which explains this in very detail](https://www.sm
 
 ## Markdown
 As mentioned before, we can write our content with Jekyll editor, we can go even with more simplicity. As I wanted to write my blogs with very simple formatting and without involving complex editors and programming languages I choose to go with GitHub online markdown editor. GitHub's online markdown editor is sufficient to write simply formatted blogs. Once we done writing blog content in this editor, after saving changes to GitHub our blog goes live automatically.  
-Here is great explanation I found about [writing and formatting with markdown](https://milanaryal.com/writing-and-formatting-with-markdown/). Also go through [this markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists) for more info.
+Here is great explanation I found about [writing and formatting with markdown](https://milanaryal.com/writing-and-formatting-with-markdown/). Also go through [this markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists) for more info.  
+Be careful with spelling mistakes while editing with GitHub online editor.
 
 ## Enhancing Blogs
 Once we have finished writing our blog and published it with the help of above mentioned tutorials and posts, we can enhance it by adding comment section to get feedback and suggestions from our readers. Also we need to make our blog available on Google Search by searching specific keywords. And guess what, this too is very easy.  
@@ -31,4 +32,4 @@ Follow this [Computing Thoughts blog](http://bruceeckel.github.io/2014/11/19/usi
 
 I hope someone will find this helpful. Start writing your blogs and host them on ypur own site, good luck!
 
-*Don't forget to leave your feedbacks, suggeestions in comments below.*
+*Don't forget to leave your feedbacks, suggestions in comments below.*
