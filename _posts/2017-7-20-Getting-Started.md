@@ -2,7 +2,6 @@
 layout: post
 comments: true
 title: Getting Started With Writing Blogs And Hosting Online
-update: 2017-07-24
 ---
 
 I was very exited to write blogs about my experiences, about new things that I learned recently, summaries of my tech-social findings I explored. I was googling about free blog hosting services available today and I didn’t found any difficulty to reach [GitHub Pages](https://pages.github.com). I found it very easy and very simple to write and publish our content online without worrying about maintenance and security.
