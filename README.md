@@ -1,6 +1,6 @@
 
 # Personal Website Repository
-This is repository for my personal [website and blogs - d4ttatraya.gihub.io](https://d4ttatraya.github.io).  
+This is repository for my personal [website and blogs: d4ttatraya.github.io](https://d4ttatraya.github.io).  
 Please visit!
 
 This is based on [GitHub Pages](https://pages.github.com0 - Websites for you and your projects. It’s really great way to go online with our website without worrying about maintenance, cost, security and complexity.
