@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Comments Policy
-permalink: /comments-policy/
+permalink: /commentsp/
 ---
 
 Please feel free to give your feedbacks, opinions and of course suggestions!  
