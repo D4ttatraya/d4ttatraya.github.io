@@ -1,7 +1,6 @@
 ---
 layout: post
-comments: true
-future: true
+comments: false
 title: Write Some
 ---
 

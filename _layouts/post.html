@@ -13,7 +13,8 @@ layout: default
     {{ content }}
   </div>
 
-  <i>(Please don’t forget to leave your feedbacks, suggestions in comments below)</i>
-  
-  {% include disqus.html %}
+  {% if page.comments %}
+  	<i>(Please don’t forget to leave your feedbacks, suggestions in comments below)</i>
+  	{% include disqus.html %}
+  {% endif %}
 </article>
