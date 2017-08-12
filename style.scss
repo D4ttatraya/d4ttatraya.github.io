@@ -210,6 +210,17 @@ img {
   }
 }
 
+.image-wrapper {
+    text-align: center;
+
+    .image-caption {
+        color: $black;
+        font-style: italic;
+        font-size: 12px;
+        margin-top: 0.5px;
+    }
+}
+
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
