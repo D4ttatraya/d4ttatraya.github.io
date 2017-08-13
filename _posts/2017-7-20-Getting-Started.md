@@ -30,3 +30,5 @@ Follow this [Computing Thoughts blog](http://bruceeckel.github.io/2014/11/19/usi
 **Comment Section**
 
 I hope someone will find this helpful. Start writing your blogs and host them on your own site, good luck!
+
+*(Please don’t forget to leave your feedbacks, suggestions in comments below)*
