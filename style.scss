@@ -7,6 +7,7 @@
 
 @import "reset";
 @import "variables";
+@import "smart-underline";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -21,6 +22,15 @@ body {
 	background: $white;
   font: 20px/1.4 $helveticaNeue;
   color: rgba($black, .8);
+}
+
+//Underline
+u {
+  @include smart-underline(#fff, #000, #ffc, 89%);
+}
+
+r {
+  font-style: italic;
 }
 
 .container {

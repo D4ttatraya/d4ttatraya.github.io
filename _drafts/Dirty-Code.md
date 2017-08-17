@@ -4,7 +4,7 @@ comments: false
 title: Advantages(!) of Dirty Code
 ---
 
-First and foremost advantage for me is that I *don't need to define it*; 😊! Almost everyone, who have written any kind of program, knows what dirty code is; whether or not everyone realizes it is another story.
+First and foremost advantage for me is that I <u>don't need to define it</u>; 😊! Almost everyone, who have written any kind of program, knows what dirty code is; whether or not everyone realizes it is another story.
 
 {% include image.html img="images/jekyll-logo.png" caption="Courtesy: Google" %}
 
@@ -18,8 +18,9 @@ Here is high-level summary of side-effect of following such practices:
 - Force to make intentional errors first and then solve them
 
 Let's get into more details of these side effects and see how painful they are.
+
 ## Naming Things
-Many people around internet talks about giving *meaningful names* to variables, functions, classes, modules and their necessity. But why it is so necessary? What will happen if you name a variable `d` instead of `numberOfDaysInTrailPeriod`?
+Many people around internet talks about giving <u>meaningful names</u> to variables, functions, classes, modules and their necessity. But why it is so necessary? What will happen if you name a variable `d` instead of `numberOfDaysInTrailPeriod`?
 ```c
 int d = 10;
 int numberOfDaysInTrailPeriod = 10;
@@ -30,26 +31,26 @@ Similarly this
 int rdsTrail(){//code}
 int remainingDaysInTrailPeriod(){//code}
 ```
-Common, let's not waste our time thinking appropriate and meaningful names for things.
+Come on, let's not waste our time thinking appropriate and meaningful names for things.
 
 If we ourselves in future or anyone else is going to work on this code later will debug and understand what `int d` and what `int rdsTrail()` stands for.
 
 ## De-coupling of Modules
-This is another most discussed topic under some techniques when writing bigger projects which contains many modules interacting with each other. This is also brought on when writing interfaces for modules. I don't understand what makes them think to hide implementations behind these interfaces? They call it some kind of *abstraction*.  
-No one is going to disturb that implementation. Here we are already tired implementing new features and why should we go and change others implementations.  
+This is another most discussed topic under some techniques when writing bigger projects which contains many modules interacting with each other. This is also brought on when writing interfaces for modules. I don't understand what makes them think to hide implementations behind these interfaces? They call it some kind of <u>abstraction</u>.  
+No one is going to disturb that implementation. Here we are already tired implementing new features and fixing bugs; and why should we go and change others' implementations.  
 And why should we keep fine separation between modules if they are interacting with each other so intensely and so frequently? We have written modules for our project and our project is useless if we remove any of the modules. Then why think as if we are going to use each module separately and independently.
 
 If in future we need to replace any module then just modify respective code according to new module, or if need to reuse it in any other project just rewrite it.
 
 ## Unit Tests
 Yet another myth of programmers, just to put more and more efforts and time writing simple piece of code which will take no more than a minute. The main purpose of unit testing is to see if our code is working as expected or not, but if there are QAs and testers sitting next to us why should we bother about testing code by ourselves?  
-Unit testing unnecessarily forces us to split our big good fat functions to smaller chunks. Putting limit of number of lines in functions also puts limit to our speed of writing them. Also why would we always follow the rule of *single responsibility* and *top to bottom flow* of functions calls? It's of course going to slow us down.
+Unit testing unnecessarily forces us to split our big good fat functions to smaller chunks. Putting limit to number of lines in functions also puts limit to our speed of writing them. Also why would we always follow the rule of <u>single responsibility</u> and <u>top to bottom flow</u> of functions calls? It's of course going to slow us down.
 
 If anyone wants to test workability of code after making some changes or adding more code then he/she should just have to give program to testers.
 
 ## Readability
-People also says that *code should written in a way that not only computers but also humans can understand it*. Again, if we tried to follow this rule then we need to waste our time writing code which can easily be understood by another programmers just reading it. But, simply, if we are having such beautiful and powerful IDEs why programmers need to read code instead of run it and watch output direct.  
-Another constraint they put here is *no more comments* in code. All the IDEs support adding comments in code. Instead of trying to make it understandable by just reading code, let's put comments wherever needed to explain. In above example, we can comment like
+People also says that <u>code should written in a way that not only computers but also humans can understand it</u>. Again, if we tried to follow this rule then we need to waste our time writing code which can easily be understood by another programmers just by reading it. But, simply, if we are having such beautiful and powerful IDEs why programmers need to read code instead of run it and watch output direct.  
+Another constraint they put here is <u>no more comments</u> in code. All the IDEs support adding comments in code. Instead of trying to make it understandable by just reading code, let's put comments wherever needed to explain. In above example, we can add comment like
 ```c
 int d = 10; //number of days in trail period
 ```
@@ -58,7 +59,7 @@ There is nothing wrong in this, neither compiler throws error nor compiled build
 If we are worrying about understandability of our code by reading, let them understand it by debugging it or by reading console logs or simply by reading comments.
 
 ## TDD
-Now I can use this word, NIGHTMARE! TDD is nothing but a nightmare to all programmers, particularly to one who actually follows it. *Make a mistake, correct it; again make another, correct it*... How silly is this? And this flow, believe me, creates another parallel program that is bigger than actual program, takes more than double time. And what purpose this serves is forces us to follow all above rules.  
+Now I can use this word, NIGHTMARE! TDD is nothing but a nightmare to all programmers, particularly to one who actually follows it. <u>Make a mistake, correct it; again make another, correct it...</u> How silly is this? And this flow, believe me, creates another parallel program that is bigger than actual program, also takes more than double time. And what purpose this serves is forces us **to follow all above rules**.  
 To make even very small modifications we need to first modify respective tests or to add small code we need to first write test. That is we have to think about test first and then implementation; isn't it time consuming? 
 
 Instead of let tests drive our development why can't we go straight forward and start without making any errors.
@@ -70,9 +71,13 @@ At the end I would like to argue you about not fall for what people are saying a
 - Easy to modify and reuse  
 - Easy to add new features
 
-We can think of these whenever it's required in future. So just chill and write a *code that just works*!
+We can think of these whenever it's required in future. So just chill and <u>write a code that just works!</u>
 
 ***You know what do I mean by this blog post...!!!***
 
 If you are on either side of coding, dirty side or whatever the other side, please leave comments and give a 👍 !
+
+*References:  
+Uncle Bob's Clean Code,
+Some Twitter Channels*
 
