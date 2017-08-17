@@ -1,12 +1,10 @@
 ---
 layout: post
-comments: false
+comments: true
 title: Advantages(!) of Dirty Code
 ---
 
 First and foremost advantage for me is that I <u>don't need to define it</u>; 😊! Almost everyone, who have written any kind of program, knows what dirty code is; whether or not everyone realizes it is another story.
-
-{% include image.html img="images/jekyll-logo.png" caption="Courtesy: Google" %}
 
 Internet is flooded with principles, rules, techniques, best practices, how-to steps to write code. And now-a-days almost every programmer is also talking about some kind of techniques to follow while writing code in respective programming languages. While using such techniques in writing code we have to follow lots of rules and best practices. Ultimately it puts many constraints to write code freely, slows us down, makes us fail to achieve time-lines of deliveries, and much more pain than any *real* programmer can imagine.
 
@@ -64,7 +62,8 @@ To make even very small modifications we need to first modify respective tests o
 
 Instead of let tests drive our development why can't we go straight forward and start without making any errors.
 
-At the end I would like to argue you about not fall for what people are saying and just ignore following side-features of our code:
+## At the end 
+I would like to argue you about not fall for what people are saying and just ignore following side-features of our code:
 - Easy to read, understand  
 - Easy to replace modules, algos  
 - Easy to debug and fix bugs  
@@ -74,6 +73,7 @@ At the end I would like to argue you about not fall for what people are saying a
 We can think of these whenever it's required in future. So just chill and <u>write a code that just works!</u>
 
 ***You know what do I mean by this blog post...!!!***
+{% include image.html img="images/dirty-code.jpg" caption="Image Courtesy: rathod.milan053@gmail.com" %}
 
 If you are on either side of coding, dirty side or whatever the other side, please leave comments and give a 👍 !
 
