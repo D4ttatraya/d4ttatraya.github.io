@@ -78,6 +78,5 @@ We can think of these whenever it's required in future. So just chill and <u>wri
 If you are on either side of coding, dirty side or whatever the other side, please leave comments and give a 👍 !
 
 *References:  
-Uncle Bob's Clean Code,
-Some Twitter Channels*
+Uncle Bob's Clean Code*
 
