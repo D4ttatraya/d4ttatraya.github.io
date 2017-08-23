@@ -3,12 +3,18 @@ layout: default
 ---
 
 <div class="posts">
+  
+  <article class="site-intro">
+  	{% include site-intro.html %}
+  </article><br>
+
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <blog-name><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></blog-name><br>
+      <small-date>{{ post.date | date: "%B %e, %Y" }}</small-date>
 
-      <div class="entry">
+      <div class="date">
         {{ post.excerpt }}
       </div>
 

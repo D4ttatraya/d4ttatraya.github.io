@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-## Profile
 Software Engineer as an iOS Developer since **more than 4yrs**. Developed native iOS apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.  
 **Open to work on:** macOS, tvOS, watchOS apps, Server side Swift
 
@@ -14,6 +13,7 @@ Started my career with **Objective-C**, used it for 2.5yrs
 **C lang, Core Data, Xcode, GIT/GitFlow, SVN, Unit Tests, TDD**  
 **Tools:** GitHub, Jira, Skype, Slack, MyCollab
 
+## Developer Story
 Find more about me (experience, education, projects) at:  
 [Stackoverflow Developer Story](https://stackoverflow.com/story/d4ttatraya)
 
