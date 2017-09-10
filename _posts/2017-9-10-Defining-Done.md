@@ -2,6 +2,7 @@
 layout: post
 comments: true
 title: Defining Done As Boolean
+image: https://d4ttatraya.github.io/images/defining-done.jpg
 ---
 
 Often in software development environments its been asked to developers whether they are done with their task or not. And its pretty obvious question for managers to ask to developers, nothing wrong or unexpected. Developers tend to answer this question as "yes, I am done" and if anything that can be wrong and unexpected here is what they mean by *done!*
