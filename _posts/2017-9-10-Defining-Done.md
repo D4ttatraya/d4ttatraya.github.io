@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Defining Done As Boolean
-image: https://d4ttatraya.github.io/images/defining-done.jpg
+image: https://d4ttatraya.me/images/defining-done.jpg
 ---
 
 Often in software development environments its been asked to developers whether they are done with their task or not. And its pretty obvious question for managers to ask to developers, nothing wrong or unexpected. Developers tend to answer this question as "yes, I am done" and if anything that can be wrong and unexpected here is what they mean by *done!*
@@ -13,7 +13,7 @@ What developer mean by done can vary from developer to developer and we can not 
 
 So here I have listed some of the *done*'s in order from totally wrong to almost right:
 ## Just Works
-Many times, rather most of the times developers say they are done once they have written a code that just works. So they write code for new feature, run it and see if its working. Is this right definition of *done*? Of course not. Why? Because code that just works is not approved by clean coders as final code. To know about how code that just works is not perfect solution, have a look at [my previous post](https://d4ttatraya.github.io/Dirty-Code).
+Many times, rather most of the times developers say they are done once they have written a code that just works. So they write code for new feature, run it and see if its working. Is this right definition of *done*? Of course not. Why? Because code that just works is not approved by clean coders as final code. To know about how code that just works is not perfect solution, have a look at [my previous post](https://d4ttatraya.me/Dirty-Code).
 
 ## Works and Clean, Unit Tested
 So, code that just works is not enough to say that we are done with feature. We should write that code matching standards of existing code and it should be clean; that is readable, testable, modifiable. Also we should add unit tests to make sure that code is working as intended in various test cases. Even if we did this, we are not done to say 'I am *done!*'
