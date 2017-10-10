@@ -9,7 +9,7 @@ I was very excited to write blogs about my experiences, about new things that I 
 This is my first ever blog I am writing, more or less this is not a blog but mentions about tutorials, blogs, support pages that I followed to get started with blog writing.
 
 ## Website
-GitHub pages gives us opportunity to host our own website publicly free of cost. This is very exciting for me as I don't have to maintain any server or host site to any other cloud services. With simple 3-4 steps explained on above mentioned link took me to [my own website](https://d4ttatraya.github.io).
+GitHub pages gives us opportunity to host our own website publicly free of cost. This is very exciting for me as I don't have to maintain any server or host site to any other cloud services. With simple 3-4 steps explained on above mentioned link took me to [my own website](https://d4ttatraya.me).
 
 ## Jekyll
 GitHub Pages supports [Jekyll- Static Site Generator in Ruby](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/). We can use Jekyll editor and write our blogs. As our blog-source is going to be on GitHub, we can clone whole repository locally and make changes to our blogs, check those changes, verify and push it to GitHub to make it live.

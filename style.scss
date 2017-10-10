@@ -207,7 +207,7 @@ small-date {
 }
 
 .site-info {
-  float: left;
+  float: none;
 
   @include mobile {
     float: none;
@@ -257,7 +257,7 @@ small-date {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 0; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
 
