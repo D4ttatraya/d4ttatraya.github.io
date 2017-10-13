@@ -6,6 +6,5 @@ title: Generic Programming In Swift
 
 
 
-*References:  
-
+*References:*
 
