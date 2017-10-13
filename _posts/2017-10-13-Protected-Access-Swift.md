@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: false
+comments: true
 title: Quickie&#58; Protected Properties and Methods in Swift - An Alternative
 ---
 
@@ -27,7 +27,7 @@ If we try to access `protectedVar` or `protectedFunc()` from outside of *Animal.
 To achieve protected access like this only thing we need to keep in mind that **children must be declared in same file as parent declared in**.
 
 Have you any time stuck searching for protected access in Swift? Then tell me how you got through it in comments below.  
-Also if you have any other solutions, please post those here!
+Also if you have any other solutions, please post those here or [Twitter @d4ttatraya](https://twitter.com/D4ttatraya)
 
 *References:  
 [Apple's Developer Guide](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/AccessControl.html)*
