@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Quickie&#58; Protected Properties and Methods in Swift - An Alternative – Dattatraya Anarase - iOS Developer, Pune, India.</title>
+
+        <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="It’s always been a quite demand from swift developers to add protected access in Swift’s access control. Lot of times it’s been asked on stack-overflow that how to write protected methods in swift. But still swift hasn’t provided any direct way to do it. Can we really achieve protected access in Swift? Yes, we can!
+
+" />
+    <meta property="og:description" content="It’s always been a quite demand from swift developers to add protected access in Swift’s access control. Lot of times it’s been asked on stack-overflow that how to write protected methods in swift. But still swift hasn’t provided any direct way to do it. Can we really achieve protected access in Swift? Yes, we can!
+
+" />
+    
+    <meta name="author" content="Dattatraya Anarase - iOS Developer, Pune, India." />
+
+    
+    <meta property="og:title" content="Quickie&#58; Protected Properties and Methods in Swift - An Alternative" />
+    <meta property="twitter:title" content="Quickie&#58; Protected Properties and Methods in Swift - An Alternative" />
+    
+
+    <!-- Search Keywords -->
+    <meta name="keywords" content="iphone developer,iphone app developers in pune,swift tutorials,swift clean code, code refactoring">
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Dattatraya Anarase - iOS Developer, Pune, India." href="/feed.xml" />
+
+    
+      <meta name="google-site-verification" content="qMeooQ-XsQsAbcdjpbQ8W7HBDdYe8cs0U3pOtjBtoAk">
+    
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="/" class="site-avatar"><img src="https://avatars2.githubusercontent.com/u/14185009?v=4&s=400" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="/">Dattatraya Anarase - iOS Developer, Pune, India.</a></h1>
+            <p class="site-description">I write blogs and tutorials on Swift Programming, Software Development, iOS Apps; Also write about clean coding, programming ethics, best practices.</p>
+          </div>
+
+          <nav>
+            <a href="/">Blogs/Tutorials</a>
+            <!-- <a href="/apps">Apps</a> -->
+            <a href="/about">About</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      <article class="post">
+
+  <h1>Quickie&#58; Protected Properties and Methods in Swift - An Alternative</h1>
+
+  <div class="date">
+    October 13, 2017
+  </div>
+
+  <div class="entry">
+    <p>It’s always been a quite demand from swift developers to add <code class="highlighter-rouge">protected</code> access in <a href="https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/AccessControl.html">Swift’s access control</a>. Lot of times it’s been asked on stack-overflow that how to write protected methods in swift. But still swift hasn’t provided any direct way to do it. Can we really achieve protected access in Swift? Yes, we can!</p>
+
+<p>Apple has already published a blog <a href="https://developer.apple.com/swift/blog/?id=11">Access Control and protected</a> in 2014 regarding this demand and how unnecessary it is. But still I believe there are lot of situations in projects where we need to hide some properties and methods from outside classes but only accessible to children. So here’s what I have come up with:</p>
+
+<div class="language-swift highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">//Animal.swift file</span>
+<span class="kd">class</span> <span class="kt">Animal</span> <span class="p">{</span>
+    <span class="kd">fileprivate</span> <span class="k">var</span> <span class="nv">protectedVar</span><span class="p">:</span> <span class="kt">Int</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="kd">fileprivate</span> <span class="kd">func</span> <span class="nf">protectedFunc</span><span class="p">()</span> <span class="p">{</span><span class="c1">//do stuff}</span>
+<span class="p">}</span>
+
+<span class="kd">class</span> <span class="kt">Dog</span><span class="p">:</span> <span class="kt">Animal</span> <span class="p">{</span>
+    <span class="kd">func</span> <span class="nf">doSomething</span><span class="p">()</span> <span class="p">{</span>
+        <span class="n">protectedVar</span> <span class="o">=</span> <span class="mi">1</span>
+        <span class="nf">protectedFunc</span><span class="p">()</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>If we try to access <code class="highlighter-rouge">protectedVar</code> or <code class="highlighter-rouge">protectedFunc()</code> from outside of <em>Animal.swift</em> file then compiler will throw an error.<br />
+To achieve protected access like this only thing we need to keep in mind that <strong>children must be declared in same file as parent declared in</strong>.</p>
+
+<p>Have you any time stuck searching for protected access in Swift? Then tell me how you got through it in comments below.<br />
+Also if you have any other solutions, please post those here or <a href="https://twitter.com/D4ttatraya">Twitter @d4ttatraya</a></p>
+
+<p><em>References:<br />
+<a href="https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/AccessControl.html">Apple’s Developer Guide</a></em></p>
+
+
+  </div>
+
+  
+  	<div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    
+    var disqus_config = function () {
+        this.page.url = "http://d4ttatraya.github.io/Protected-Access-Swift/";  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = "/Protected-Access-Swift"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        
+        s.src = 'https://github-site.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  
+</article>
+
+    </div>
+
+    <br><br><!-- This two line space is for floating footer -->
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          
+<a href="mailto:d4ttatraya@gmail.com"><i class="svg-icon email"></i></a>
+<a href="http://stackoverflow.com/users/5546312"><i class="svg-icon stackoverflow"></i></a>
+<a href="https://www.twitter.com/D4ttatraya"><i class="svg-icon twitter"></i></a>
+<a href="https://github.com/D4ttatraya"><i class="svg-icon github"></i></a>
+<a href="https://www.linkedin.com/in/dattatraya-anarase"><i class="svg-icon linkedin"></i></a>
+
+<!--Not Using Followings!-->
+
+
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-103582513-1', 'auto');
+		ga('send', 'pageview', {
+		  'page': '/Protected-Access-Swift/',
+		  'title': 'Quickie&#58; Protected Properties and Methods in Swift - An Alternative'
+		});
+	</script>
+	<!-- End Google Analytics -->
+
+
+  </body>
+</html>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://d4ttatraya.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://d4ttatraya.me/" rel="alternate" type="text/html" /><updated>2018-02-17T19:42:15+05:30</updated><id>https://d4ttatraya.me/</id><title type="html">Dattatraya Anarase - iOS Developer, Pune, India.</title><subtitle>I write blogs and tutorials on Swift Programming, Software Development, iOS Apps; Also write about clean coding, programming ethics, best practices.</subtitle><entry><title type="html">Keep Your Head In The Clouds</title><link href="https://d4ttatraya.me/Keep-Your-Head-In-The-Clouds/" rel="alternate" type="text/html" title="Keep Your Head In The Clouds" /><published>2018-02-17T00:00:00+05:30</published><updated>2018-02-17T00:00:00+05:30</updated><id>https://d4ttatraya.me/Keep-Your-Head-In-The-Clouds</id><content type="html" xml:base="https://d4ttatraya.me/Keep-Your-Head-In-The-Clouds/">&lt;p&gt;Two days back my MacBook Pro (Mid 2012) stuck at progress bar while starting, and not yet started! How troublesome is this!!! I’m sure many of us have faced this issue somewhere, provided, mostly if it’s an old model. What about all these projects and files after my MacBook crash? Any one can face this issue. Then how to make sure that our files are safe! And how I made it through this sudden crash!&lt;/p&gt;
+
+&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;My 2012 &lt;a href=&quot;https://twitter.com/hashtag/MacBookPro?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#MacBookPro&lt;/a&gt; doesn’t starting since yesterday morning...😔 Stuck current project development.&lt;br /&gt;Now found used late 2013 15” model, upgrading it to &lt;a href=&quot;https://twitter.com/hashtag/macOS?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#macOS&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/highSierra?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#highSierra&lt;/a&gt;; hope it’ll perform well! &lt;a href=&quot;https://twitter.com/hashtag/FingersCrossed?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#FingersCrossed&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dattatraya Anarase (@D4ttatraya) &lt;a href=&quot;https://twitter.com/D4ttatraya/status/964461619160985600?ref_src=twsrc%5Etfw&quot;&gt;February 16, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;p&gt;Being software developer and that too freelancer, keeping day-to-day project data/docs safe is big challenge. And where I’m working currently, there is no Version Control setup and I need to take care of my code by myself. Also I’m having lot of other files that I’ve created for my personal use. Where to store it? - &lt;strong&gt;In the Sky!&lt;/strong&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;https://d4ttatraya.me/images/clouds-birds.jpg&quot; alt=&quot;&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Image Courtesy: quotabulary.com&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;Yes, Clouds. My all work data is on clouds, when I bought another MacBook I just logged in to those clouds, got all the data and started working from where I was stuck. There are lots of cloud space providing companies available today; even with free of cost. I use those cloud spaces a lot to store work data, to keep it safe, secure, to make it available through-out the devices, always synced, share within people.&lt;br /&gt;
+Here I’m mentioning what I’m using:&lt;/p&gt;
+
+&lt;h3 id=&quot;icloud&quot;&gt;iCloud&lt;/h3&gt;
+&lt;p&gt;Provided by &lt;a href=&quot;https://support.apple.com/en-in/HT201318&quot;&gt;Apple Inc&lt;/a&gt;, it gives 5GB free space. If we have any of the Apple devices then this is must and it comes with Apple Id we create to use for App Store downloads.&lt;/p&gt;
+
+&lt;h3 id=&quot;google-drive&quot;&gt;Google Drive&lt;/h3&gt;
+&lt;p&gt;Provide by &lt;a href=&quot;https://support.google.com/drive/answer/2375123?co=GENIE.Platform%3DDesktop&amp;amp;hl=en&quot;&gt;Google LLC&lt;/a&gt;, it gives 15GB free space. Every Gmail account (eventually Google account) comes with this drive space.&lt;/p&gt;
+
+&lt;h3 id=&quot;dropbox&quot;&gt;Dropbox&lt;/h3&gt;
+&lt;p&gt;Provided by &lt;a href=&quot;https://www.dropbox.com/individual&quot;&gt;Dropbox Inc&lt;/a&gt;, it gives 2GB of initial free space, and it can be upgraded upto 16GB for free by Referral scheme. I mostly use Dropbox for keeping my projects under version control, so I can share it with other developers exactly same like GitHub.&lt;br /&gt;
+Please start using Dropbox, if you are not, by using &lt;a href=&quot;https://db.tt/BlEqljaQBd&quot;&gt;my referral link&lt;/a&gt; so I will get bonus 500MB free space (and you will also).&lt;/p&gt;
+
+&lt;h3 id=&quot;box&quot;&gt;Box&lt;/h3&gt;
+&lt;p&gt;Provided by &lt;a href=&quot;https://www.box.com/cloud-storage&quot;&gt;Box Inc&lt;/a&gt;, it gives 10GB of free space. I use this mostly to store heavy project docs like wireframes, images for app, etc.&lt;/p&gt;
+
+&lt;h3 id=&quot;onedrive&quot;&gt;OneDrive&lt;/h3&gt;
+&lt;p&gt;Provided by &lt;a href=&quot;https://onedrive.live.com/about/en-US/plans/&quot;&gt;Microsoft Corporation&lt;/a&gt;, it gives 5GB of free space. It works very smoothly with MS Office files.&lt;/p&gt;
+
+&lt;p&gt;So if we use all of these clouds, we can have &lt;strong&gt;total 37GB of free space on clouds&lt;/strong&gt;, that can be accessed on any platforms on mobiles, tablets and PCs running Android, Windows, iOS or macOS. For every platform, all these clouds have their own apps to integrate in file/folder system.
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;https://d4ttatraya.me/images/clouds-iOS.jpg&quot; alt=&quot;&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Cloud Apps for iOS&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;https://d4ttatraya.me/images/clouds-macOS.png&quot; alt=&quot;&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Cloud Apps for macOS&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;h4 id=&quot;security&quot;&gt;Security&lt;/h4&gt;
+&lt;p&gt;I’ve searched on Google about security of our data on these clouds, there I haven’t found anything that mentions about loop holes or security issues. So I think it’s perfectly fine to keep our data there, still it’s opinion based decision!&lt;/p&gt;
+
+&lt;p&gt;If you find this helpful or you are already using these clouds then give me a ❤️, share it. Or if you have any other opinions then please feel free to comment below!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;References:&lt;br /&gt;
+Title courtesy- &lt;a href=&quot;http://www.picturequotes.com/head-in-the-clouds-quote-2-picture-quote-687525&quot;&gt;PictureQuotes.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Two days back my MacBook Pro (Mid 2012) stuck at progress bar while starting, and not yet started! How troublesome is this!!! I’m sure many of us have faced this issue somewhere, provided, mostly if it’s an old model. What about all these projects and files after my MacBook crash? Any one can face this issue. Then how to make sure that our files are safe! And how I made it through this sudden crash!</summary></entry><entry><title type="html">Quickie: Protected Properties and Methods in Swift - An Alternative</title><link href="https://d4ttatraya.me/Protected-Access-Swift/" rel="alternate" type="text/html" title="Quickie&amp;#58; Protected Properties and Methods in Swift - An Alternative" /><published>2017-10-13T00:00:00+05:30</published><updated>2017-10-13T00:00:00+05:30</updated><id>https://d4ttatraya.me/Protected-Access-Swift</id><content type="html" xml:base="https://d4ttatraya.me/Protected-Access-Swift/">&lt;p&gt;It’s always been a quite demand from swift developers to add &lt;code class=&quot;highlighter-rouge&quot;&gt;protected&lt;/code&gt; access in &lt;a href=&quot;https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/AccessControl.html&quot;&gt;Swift’s access control&lt;/a&gt;. Lot of times it’s been asked on stack-overflow that how to write protected methods in swift. But still swift hasn’t provided any direct way to do it. Can we really achieve protected access in Swift? Yes, we can!&lt;/p&gt;
+
+&lt;p&gt;Apple has already published a blog &lt;a href=&quot;https://developer.apple.com/swift/blog/?id=11&quot;&gt;Access Control and protected&lt;/a&gt; in 2014 regarding this demand and how unnecessary it is. But still I believe there are lot of situations in projects where we need to hide some properties and methods from outside classes but only accessible to children. So here’s what I have come up with:&lt;/p&gt;
+
+&lt;div class=&quot;language-swift highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;//Animal.swift file&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;Animal&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;fileprivate&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;protectedVar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;Int&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;fileprivate&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;protectedFunc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;//do stuff}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;Dog&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;Animal&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;doSomething&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;protectedVar&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+        &lt;span class=&quot;nf&quot;&gt;protectedFunc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If we try to access &lt;code class=&quot;highlighter-rouge&quot;&gt;protectedVar&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;protectedFunc()&lt;/code&gt; from outside of &lt;em&gt;Animal.swift&lt;/em&gt; file then compiler will throw an error.&lt;br /&gt;
+To achieve protected access like this only thing we need to keep in mind that &lt;strong&gt;children must be declared in same file as parent declared in&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Have you any time stuck searching for protected access in Swift? Then tell me how you got through it in comments below.&lt;br /&gt;
+Also if you have any other solutions, please post those here or &lt;a href=&quot;https://twitter.com/D4ttatraya&quot;&gt;Twitter @d4ttatraya&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;References:&lt;br /&gt;
+&lt;a href=&quot;https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/AccessControl.html&quot;&gt;Apple’s Developer Guide&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">It’s always been a quite demand from swift developers to add protected access in Swift’s access control. Lot of times it’s been asked on stack-overflow that how to write protected methods in swift. But still swift hasn’t provided any direct way to do it. Can we really achieve protected access in Swift? Yes, we can!</summary></entry><entry><title type="html">Defining Done As Boolean</title><link href="https://d4ttatraya.me/Defining-Done/" rel="alternate" type="text/html" title="Defining Done As Boolean" /><published>2017-09-10T00:00:00+05:30</published><updated>2017-09-10T00:00:00+05:30</updated><id>https://d4ttatraya.me/Defining-Done</id><content type="html" xml:base="https://d4ttatraya.me/Defining-Done/">&lt;p&gt;Often in software development environments its been asked to developers whether they are done with their task or not. And its pretty obvious question for managers to ask to developers, nothing wrong or unexpected. Developers tend to answer this question as “yes, I am done” and if anything that can be wrong and unexpected here is what they mean by &lt;em&gt;done!&lt;/em&gt;&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;https://d4ttatraya.me/images/defining-done.jpg&quot; alt=&quot;&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Image Courtesy: http://www.quickmeme.com&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;What developer mean by done can vary from developer to developer and we can not predict what actually done by him/her. Is &lt;em&gt;done&lt;/em&gt; a boolean that clearly means either not at all done or actually finished everything? And again what is mean by ‘actually finished everything’? As definition of &lt;em&gt;done&lt;/em&gt; varies from person to person, there are always chances of understanding/assumptions gaps between developers’ &lt;em&gt;done&lt;/em&gt; and managers’ &lt;em&gt;done&lt;/em&gt; and business persons’ &lt;em&gt;done&lt;/em&gt; and its consequences can disturb the whole product delivery chain and can attract negative attention towards that developer.&lt;/p&gt;
+
+&lt;p&gt;So here I have listed some of the &lt;em&gt;done&lt;/em&gt;’s in order from totally wrong to almost right:&lt;/p&gt;
+&lt;h2 id=&quot;just-works&quot;&gt;Just Works&lt;/h2&gt;
+&lt;p&gt;Many times, rather most of the times developers say they are done once they have written a code that just works. So they write code for new feature, run it and see if its working. Is this right definition of &lt;em&gt;done&lt;/em&gt;? Of course not. Why? Because code that just works is not approved by clean coders as final code. To know about how code that just works is not perfect solution, have a look at &lt;a href=&quot;https://d4ttatraya.me/Dirty-Code&quot;&gt;my previous post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;works-and-clean-unit-tested&quot;&gt;Works and Clean, Unit Tested&lt;/h2&gt;
+&lt;p&gt;So, code that just works is not enough to say that we are done with feature. We should write that code matching standards of existing code and it should be clean; that is readable, testable, modifiable. Also we should add unit tests to make sure that code is working as intended in various test cases. Even if we did this, we are not done to say ‘I am &lt;em&gt;done!&lt;/em&gt;’&lt;/p&gt;
+
+&lt;h2 id=&quot;works-and-clean-unit-tested-and-passes-automated-tests&quot;&gt;Works and Clean, Unit Tested and Passes Automated Tests&lt;/h2&gt;
+&lt;p&gt;Once we have code that works, code that is clean and code that is unit tested, we have to look for next criteria to get feature done. And that criteria is to pass all the already written automated tests. These automated tests can be integration tests and acceptance tests. Integration tests make sure that newly written code is integrated with existing system correctly and breaks nothing.&lt;/p&gt;
+
+&lt;h2 id=&quot;works-and-clean-unit-tested-and-passes-automated-tests-and-qa-approved&quot;&gt;Works and Clean, Unit Tested and Passes Automated Tests and QA Approved&lt;/h2&gt;
+&lt;p&gt;Once we have finished all the above steps, still we are not done. What is remaining now? After finishing all the above steps, we should handover working system to QA and wait for his/her feedback, either bugs, modifications or approval. When QA approves our newly implemented feature, then and then only we can say that “I am &lt;em&gt;done!&lt;/em&gt;”, finally. So now we can say that our &lt;strong&gt;&lt;em&gt;done&lt;/em&gt; is boolean where not at all done or doesn’t work or all above definitions falls under value-0 and only this definition falls under value-1&lt;/strong&gt;.&lt;br /&gt;
+As Uncle Bob says-&lt;br /&gt;
+&lt;em&gt;Done means done, no complete, no done-done.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;bonus&quot;&gt;Bonus&lt;/h2&gt;
+&lt;p&gt;So many times its mentioned that we should always re-factor or clean the existing code, we can add this too in our definition of &lt;em&gt;done&lt;/em&gt;. We should not say &lt;em&gt;done&lt;/em&gt; until we re-factor(if required) existing code related to our newly written feature.&lt;/p&gt;
+
+&lt;p&gt;Every company has their own definition of &lt;em&gt;done&lt;/em&gt;, but if any company doesn’t then they should get it defined immediately and should ask their employees to follow it.&lt;br /&gt;
+If you have already defined your own &lt;em&gt;done&lt;/em&gt; or have defined it now, then don’t forget to put your definition in comments below!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;References:&lt;br /&gt;
+Uncle Bob’s Clean Coder Book and &lt;a href=&quot;https://www.youtube.com/watch?v=BSaAMQVq01E&quot;&gt;Talk About Professionalism&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Often in software development environments its been asked to developers whether they are done with their task or not. And its pretty obvious question for managers to ask to developers, nothing wrong or unexpected. Developers tend to answer this question as “yes, I am done” and if anything that can be wrong and unexpected here is what they mean by done!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://d4ttatraya.me/images/defining-done.jpg" /></entry><entry><title type="html">Advantages(!) of Dirty Code</title><link href="https://d4ttatraya.me/Dirty-Code/" rel="alternate" type="text/html" title="Advantages(!) of Dirty Code" /><published>2017-08-17T00:00:00+05:30</published><updated>2017-08-17T00:00:00+05:30</updated><id>https://d4ttatraya.me/Dirty-Code</id><content type="html" xml:base="https://d4ttatraya.me/Dirty-Code/">&lt;p&gt;First and foremost advantage for me is that I &lt;em&gt;don’t need to define it&lt;/em&gt;; 😊! Almost everyone, who have written any kind of program, knows what dirty code is; whether or not everyone realizes it is another story.&lt;/p&gt;
+
+&lt;p&gt;Internet is flooded with principles, rules, techniques, best practices, how-to steps to write code. And now-a-days almost every programmer is also talking about some kind of techniques to follow while writing code in respective programming languages. While using such techniques in writing code we have to follow lots of rules and best practices. Ultimately it puts many constraints to write code freely, slows us down, makes us fail to achieve time-lines of deliveries, and much more pain than any &lt;em&gt;real&lt;/em&gt; programmer can imagine.&lt;/p&gt;
+
+&lt;p&gt;Here is high-level summary of side-effect of following such practices:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Takes lot of time to name things&lt;/li&gt;
+  &lt;li&gt;Needs unnecessary separation between modules&lt;/li&gt;
+  &lt;li&gt;Makes us write lot of extra code which never will be in product builds&lt;/li&gt;
+  &lt;li&gt;Not allowing to add comments&lt;/li&gt;
+  &lt;li&gt;Force to make intentional errors first and then solve them&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Let’s get into more details of these side effects and see how painful they are.&lt;/p&gt;
+
+&lt;h2 id=&quot;naming-things&quot;&gt;Naming Things&lt;/h2&gt;
+&lt;p&gt;Many people around Internet talks about giving &lt;em&gt;meaningful names&lt;/em&gt; to variables, functions, classes, modules and their necessity. But why it is so necessary? What will happen if you name a variable &lt;code class=&quot;highlighter-rouge&quot;&gt;d&lt;/code&gt; instead of &lt;code class=&quot;highlighter-rouge&quot;&gt;numberOfDaysInTrailPeriod&lt;/code&gt;?&lt;/p&gt;
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;d&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;numberOfDaysInTrailPeriod&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;No error will be generated by compiler and nothing is going to break runtime either.  &lt;br /&gt;
+Similarly this&lt;/p&gt;
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rdsTrail&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;//code}&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;remainingDaysInTrailPeriod&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;//code}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Come on, let’s not waste our time thinking appropriate and meaningful names for things.&lt;/p&gt;
+
+&lt;p&gt;If we ourselves in future or anyone else is going to work on this code later will debug and understand what &lt;code class=&quot;highlighter-rouge&quot;&gt;int d&lt;/code&gt; and what &lt;code class=&quot;highlighter-rouge&quot;&gt;int rdsTrail()&lt;/code&gt; stands for.&lt;/p&gt;
+
+&lt;h2 id=&quot;de-coupling-of-modules&quot;&gt;De-coupling of Modules&lt;/h2&gt;
+&lt;p&gt;This is another most discussed topic under some techniques when writing bigger projects which contains many modules interacting with each other. This is also brought on when writing interfaces for modules. I don’t understand what makes them think to hide implementations behind these interfaces? They call it some kind of abstraction.&lt;br /&gt;
+No one is going to disturb that implementation. Here we are already tired implementing new features and fixing bugs; and why should we go and change others’ implementations.&lt;br /&gt;
+And why should we keep fine separation between modules if they are interacting with each other so intensely and so frequently? We have written modules for our project and our project is useless if we remove any of the modules. Then why think as if we are going to use each module separately and independently.&lt;/p&gt;
+
+&lt;p&gt;If in future we need to replace any module then just modify respective code according to new module, or if need to reuse it in any other project just rewrite it.&lt;/p&gt;
+
+&lt;h2 id=&quot;unit-tests&quot;&gt;Unit Tests&lt;/h2&gt;
+&lt;p&gt;Yet another myth of programmers, just to put more and more efforts and time writing simple piece of code which will take no more than a minute. The main purpose of unit testing is to see if our code is working as expected or not, but if there are QAs and testers sitting next to us why should we bother about testing code by ourselves?&lt;br /&gt;
+Unit testing unnecessarily forces us to split our big good fat functions to smaller chunks. Putting limit to number of lines in functions also puts limit to our speed of writing them. Also why would we always follow the rule of &lt;em&gt;single responsibility&lt;/em&gt; and &lt;em&gt;top to bottom flow&lt;/em&gt; of functions calls? It’s of course going to slow us down.&lt;/p&gt;
+
+&lt;p&gt;If anyone wants to test workability of code after making some changes or adding more code then he/she should just have to give program to testers.&lt;/p&gt;
+
+&lt;h2 id=&quot;readability&quot;&gt;Readability&lt;/h2&gt;
+&lt;p&gt;People also says that &lt;em&gt;code should written in a way that not only computers but also humans can understand it&lt;/em&gt;. Again, if we tried to follow this rule then we need to waste our time writing code which can easily be understood by another programmers just by reading it. But, simply, if we are having such beautiful and powerful IDEs why programmers need to read code instead of run it and watch output direct.&lt;br /&gt;
+Another constraint they put here is &lt;em&gt;no more comments&lt;/em&gt; in code. All the IDEs support adding comments in code. Instead of trying to make it understandable by just reading code, let’s put comments wherever needed to explain. In above example, we can add comment like&lt;/p&gt;
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;d&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//number of days in trail period&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;There is nothing wrong in this, neither compiler throws error nor compiled build will include these comments.&lt;/p&gt;
+
+&lt;p&gt;If we are worrying about understandability of our code by reading, let them understand it by debugging it or by reading console logs or simply by reading comments.&lt;/p&gt;
+
+&lt;h2 id=&quot;tdd&quot;&gt;TDD&lt;/h2&gt;
+&lt;p&gt;Now I can use this word, NIGHTMARE! TDD is nothing but a nightmare to all programmers, particularly to one who actually follows it. &lt;em&gt;Make a mistake, correct it; again make another, correct it…&lt;/em&gt; How silly is this? And this flow, believe me, creates another parallel program that is bigger than actual program, also takes more than double time. And what purpose this serves is forces us &lt;strong&gt;to follow all above rules&lt;/strong&gt;.&lt;br /&gt;
+To make even very small modifications we need to first modify respective tests or to add small code we need to first write test. That is we have to think about test first and then implementation; isn’t it time consuming?&lt;/p&gt;
+
+&lt;p&gt;Instead of let tests drive our development why can’t we go straight forward and start without making any errors.&lt;/p&gt;
+
+&lt;h2 id=&quot;at-the-end&quot;&gt;At the end&lt;/h2&gt;
+&lt;p&gt;I would like to argue you about not fall for what people are saying and just ignore following side-features of our code:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Easy to read, understand&lt;/li&gt;
+  &lt;li&gt;Easy to replace modules, algos&lt;/li&gt;
+  &lt;li&gt;Easy to debug and fix bugs&lt;/li&gt;
+  &lt;li&gt;Easy to modify and reuse&lt;/li&gt;
+  &lt;li&gt;Easy to add new features&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We can think of these whenever it’s required in future. So just chill and &lt;em&gt;write a code that just works!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;You know what do I mean by this blog post…!!!&lt;/em&gt;&lt;/strong&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;https://d4ttatraya.me/images/dirty-code.jpg&quot; alt=&quot;&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Image Courtesy: rathod.milan053@gmail.com&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;If you are on either side of coding, dirty side or whatever the other side, please leave comments and give a 👍 !&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;References:&lt;br /&gt;
+Uncle Bob’s Clean Code&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">First and foremost advantage for me is that I don’t need to define it; 😊! Almost everyone, who have written any kind of program, knows what dirty code is; whether or not everyone realizes it is another story.</summary></entry><entry><title type="html">Getting Started With Writing Blogs And Hosting Online</title><link href="https://d4ttatraya.me/Getting-Started/" rel="alternate" type="text/html" title="Getting Started With Writing Blogs And Hosting Online" /><published>2017-07-20T00:00:00+05:30</published><updated>2017-07-20T00:00:00+05:30</updated><id>https://d4ttatraya.me/Getting-Started</id><content type="html" xml:base="https://d4ttatraya.me/Getting-Started/">&lt;p&gt;I was very excited to write blogs about my experiences, about new things that I learned recently, summaries of my tech-social findings I explored. I was googling about free blog hosting services available today and I didn’t found any difficulty to reach &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt;. I found it very easy and very simple to write and publish our content online without worrying about maintenance and security.&lt;/p&gt;
+
+&lt;p&gt;This is my first ever blog I am writing, more or less this is not a blog but mentions about tutorials, blogs, support pages that I followed to get started with blog writing.&lt;/p&gt;
+
+&lt;h2 id=&quot;website&quot;&gt;Website&lt;/h2&gt;
+&lt;p&gt;GitHub pages gives us opportunity to host our own website publicly free of cost. This is very exciting for me as I don’t have to maintain any server or host site to any other cloud services. With simple 3-4 steps explained on above mentioned link took me to &lt;a href=&quot;https://d4ttatraya.me&quot;&gt;my own website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;jekyll&quot;&gt;Jekyll&lt;/h2&gt;
+&lt;p&gt;GitHub Pages supports &lt;a href=&quot;https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/&quot;&gt;Jekyll- Static Site Generator in Ruby&lt;/a&gt;. We can use Jekyll editor and write our blogs. As our blog-source is going to be on GitHub, we can clone whole repository locally and make changes to our blogs, check those changes, verify and push it to GitHub to make it live.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-up-github-repo&quot;&gt;Setting Up GitHub Repo&lt;/h2&gt;
+&lt;p&gt;To go online with our website and blog posts we need to create spacial repository on GitHub with our account, let it be free account. &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt; explaining it very well for setting &lt;strong&gt;Hello World&lt;/strong&gt; website. But for customizing and making it responsive, showing blogs we need to modify it. And don’t worry, this too is very easy. Just &lt;a href=&quot;https://help.github.com/articles/fork-a-repo/&quot;&gt;fork&lt;/a&gt; one of the many sample GitHub repositories and put our own content into it.&lt;br /&gt;
+Here is one of such &lt;a href=&quot;https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/&quot;&gt;tutorial which explains this in very detail&lt;/a&gt;. This is really very good starting point.&lt;/p&gt;
+
+&lt;h2 id=&quot;markdown&quot;&gt;Markdown&lt;/h2&gt;
+&lt;p&gt;As mentioned before, we can write our content with Jekyll editor, we can go even with more simplicity. As I wanted to write my blogs with very simple formatting and without involving complex editors and programming languages I choose to go with GitHub online markdown editor. GitHub’s online markdown editor is sufficient to write simply formatted blogs. Once we done writing blog content in this editor, after saving changes to GitHub our blog goes live automatically.&lt;br /&gt;
+Here is great explanation I found about &lt;a href=&quot;https://milanaryal.com/writing-and-formatting-with-markdown/&quot;&gt;writing and formatting with markdown&lt;/a&gt;. Also go through &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists&quot;&gt;this markdown cheatsheet&lt;/a&gt; for more info.&lt;br /&gt;
+Be careful with spelling mistakes while editing with GitHub online editor.&lt;/p&gt;
+
+&lt;h2 id=&quot;enhancing-blogs&quot;&gt;Enhancing Blogs&lt;/h2&gt;
+&lt;p&gt;Once we have finished writing our blog and published it with the help of above mentioned tutorials and posts, we can enhance it by adding comment section to get feedback and suggestions from our readers. Also we need to make our blog available on Google Search by searching specific keywords. And guess what, this too is very easy.&lt;br /&gt;
+Follow this &lt;a href=&quot;http://bruceeckel.github.io/2014/11/19/using-github-pages/&quot;&gt;Computing Thoughts blog&lt;/a&gt; to achieve these following features:&lt;br /&gt;
+&lt;strong&gt;Google Search Indexing&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Comment Section&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I hope someone will find this helpful. Start writing your blogs and host them on your own site, good luck!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(Please don’t forget to leave your feedbacks, suggestions in comments below)&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">I was very excited to write blogs about my experiences, about new things that I learned recently, summaries of my tech-social findings I explored. I was googling about free blog hosting services available today and I didn’t found any difficulty to reach GitHub Pages. I found it very easy and very simple to write and publish our content online without worrying about maintenance and security.</summary></entry></feed>
