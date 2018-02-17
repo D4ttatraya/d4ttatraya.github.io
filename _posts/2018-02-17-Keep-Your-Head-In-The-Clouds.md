@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: false
+comments: true
 title: Keep Your Head In The Clouds
 ---
 
