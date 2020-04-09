@@ -8,8 +8,8 @@ Software Engineer as an iOS Developer **since 2013**. Developed native iOS apps 
 **Open to work on:** macOS, tvOS, watchOS apps, Server side Swift
 
 ## Skills
-Coding **Swift**, since 2016, through all versions up to recent v5.0  
-Started my career with **Objective-C** 
+Coding **Swift**, since 2015/16, through all versions up to recent v5.0  
+Started my career with **Objective-C**  
 **C lang, Core Data, Xcode, GIT/GitFlow, SVN, Unit Tests, TDD**  
 **Tools:** GitHub, Jira, Skype, Slack, Bitbucket
 
