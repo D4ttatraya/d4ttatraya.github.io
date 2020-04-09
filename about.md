@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Software Engineer as an iOS Developer **since 2013**. Developed native iOS apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.  
+Software Engineer as an iOS Developer **since 2013**. Developed native iOS apps ranging from simple education apps to OTT app with millions of user-base, high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.  
 **Open to work on:** macOS, tvOS, watchOS apps, Server side Swift
 
 ## Skills
