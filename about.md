@@ -4,14 +4,14 @@ title: About Me
 permalink: /about/
 ---
 
-Software Engineer as an iOS Developer since **more than 5yrs**. Developed native iOS apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.  
+Software Engineer as an iOS Developer **since 2013**. Developed native iOS apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.  
 **Open to work on:** macOS, tvOS, watchOS apps, Server side Swift
 
 ## Skills
-Currently using **Swift**, 3yrs, through all versions up to recent 4.0  
-Started my career with **Objective-C**, used it for 2.5yrs  
+Coding **Swift**, since 2016, through all versions up to recent v5.0  
+Started my career with **Objective-C** 
 **C lang, Core Data, Xcode, GIT/GitFlow, SVN, Unit Tests, TDD**  
-**Tools:** GitHub, Jira, Skype, Slack, MyCollab
+**Tools:** GitHub, Jira, Skype, Slack, Bitbucket
 
 ## Developer Story
 Find more about me (experience, education, projects) at:  
