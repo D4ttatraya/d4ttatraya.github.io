@@ -25,9 +25,9 @@ There are few common, most used ABR protocols:
 - HTTP Live Streaming (HLS) by Apple
 - Microsoft Smooth Streaming (MSS) by Microsoft
 - HTTP Dynamic Streaming (HDS) by Adobe
-- MPEG Dynamic Adaptive Streaming (MPEG-DASH) by MPEG group
+- MPEG Dynamic Adaptive Streaming over HTTP (MPEG-DASH) by MPEG group
 
-There are very tough challenges are being solved using ABR streaming, like:
+There are very tough challenges which are being tackled using ABR streaming, like:
 - Reducing required bandwidth to play high quality videos
 - Maintaining video quality with weak networks
 - Uninterrupted playback in peak network traffics and fluctuations
