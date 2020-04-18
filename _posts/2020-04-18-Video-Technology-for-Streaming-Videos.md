@@ -34,7 +34,7 @@ There are very tough challenges which are being tackled using ABR streaming, lik
 - Reducing delivery network and infrastructure costs
 - And many more
 
-Ever wondered how OTT apps like Netflix, Amazon Prime Video, Apple TV+ works so smoothly? This is the technology they are using behind the curtains!
+Ever wondered how OTT apps like Netflix, Amazon Prime Video, Apple TV+ works so smoothly? This is the technology they are using behind the scene!
 
 Will explore more about every technology and protocol mentioned here, stay tuned at [Video Technology Posts](http://d4ttatraya.me/video-tech/).
 
