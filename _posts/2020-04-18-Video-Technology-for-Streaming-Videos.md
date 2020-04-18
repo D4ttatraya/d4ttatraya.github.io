@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: false
+comments: true
 title: Video Technology for Streaming Videos
 permalink: /video-tech/Video-Technology-for-Streaming-Videos
 ---
