@@ -1,0 +1,22 @@
+---
+layout: page
+title: All Posts
+permalink: /posts/
+---
+
+<div class="posts">
+
+  {% for post in site.posts %}
+    <article class="post">
+
+      <blog-name><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></blog-name><br>
+      <small-date>{{ post.date | date: "%B %e, %Y" }}</small-date>
+
+      <div class="date">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>

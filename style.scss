@@ -129,6 +129,14 @@ blog-name {
   line-height: 1.7;
 }
 
+//post name in index
+posts-index-item {
+  font-family: $helveticaNeue;
+  color: $darkerGray;
+  font-size: 20px;
+  line-height: 1;
+}
+
 //small date under blog name on home page
 small-date {
   color: $black;
@@ -177,7 +185,7 @@ small-date {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 
 .masthead {
@@ -255,7 +263,7 @@ small-date {
   color: $black;
   font-size: 25px;
   font-style: bold;
-  padding-bottom: 1em;
+  padding-bottom: 10px;
   border-bottom: 1px solid $black;
 }
 
@@ -291,7 +299,7 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 1em;
+  padding-bottom: 10px;
   border-bottom: 1px solid $lightGray;
 }
 
@@ -316,7 +324,7 @@ nav {
 
   .read-more {
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 14px;
   }
 }
 
