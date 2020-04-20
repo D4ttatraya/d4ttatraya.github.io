@@ -3,9 +3,11 @@ layout: post
 comments: true
 title: Video Technology for Streaming Videos
 permalink: /video-tech/Video-Technology-for-Streaming-Videos
+next-title: Streaming vs Downloading
+next-url: /video-tech/Streaming-vs-Downloading
 ---
 
-At the most and at vast, video technology is being used to deliver videos over the Internet. Delivering videos to the users using Internet is what we call video streaming. This delivery is achieved by the continuous and real time transmission of media from server to client, let media be video or audio. It can deliver already produced videos also (VoD) or Live Streaming of events also. The most notable early use of video streaming was live streaming of *Summer Olympic Games in August 2008* using Microsoft's Smooth Streaming protocol, millions of people around the globe watched with millions of hours consumption.
+At the most and at vast, video technology is being used to deliver videos over the Internet. Delivering real-time videos to the users using Internet is what we call video streaming. This delivery is achieved by the continuous and real-time transmission of media from server to client, let media be video or audio. Just keep in mind, [streaming is way different than downloading a media file and then playing it](/video-tech/Streaming-vs-Downloading). It can deliver already produced videos also (VoD) or Live Streaming of events also. The most notable early use of video streaming was live streaming of *Summer Olympic Games in August 2008* using Microsoft's Smooth Streaming protocol, millions of people around the globe watched consuming millions of hours.
 
 ## Technologies Involved
 There are lots of sub-technologies involved in making video streaming possible. Here some high-level technologies used for video streaming:
@@ -37,5 +39,4 @@ There are very tough challenges which are being tackled using ABR streaming, lik
 Ever wondered how OTT apps like Netflix, Amazon Prime Video, Apple TV+ works so smoothly? This is the technology they are using behind the scene!
 
 Will explore more about every technology and protocol mentioned here, stay tuned at [Video Technology Posts](http://d4ttatraya.me/video-tech/).
-
 
