@@ -8,7 +8,7 @@ previous-url: /video-tech/Video-Technology-for-Streaming-Videos
 ---
 
 As explained at high level about [how video technology is being used to stream videos online](/video-tech/Video-Technology-for-Streaming-Videos), the basic question comes to mind is why not just download the media file and play it? We are downloading media files since very beginning of Internet and that's happening very seamlessly. We can play downloaded media anytime we want without having Internet connection. Also we can easily transfer that media file to others through external hard drives and USB drives. Then why video technology guys have brought us the streaming technology?  
-Because streaming is the master factor which made possible so much things like OTT apps (e.g. Netflix), sports/events onine live streaming, online TV and many more. Let's see what makes streaming technology different than downloading.
+Because streaming is the master factor which made possible so much things like OTT apps (e.g. Netflix), sports/events online live streaming, online TV and many more. Let's see what makes streaming technology different than downloading.
 
 ### Continuous Stream of Data
 The basic difference between streaming and downloading is that streaming, as name suggests, is a continuous stream of chunks of file from server to client device, whereas downloading is simply copying whole file from server and saving it on client device. With this, streaming allows client device to start playback soon after receiving first few chunks. But for download, client has to wait for whole file to be downloaded and then can start playback (tough there are exceptions where client can start playback even before file gets completely downloaded).
